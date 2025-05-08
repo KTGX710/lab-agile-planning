@@ -1,2 +1,2 @@
 # lab-agile-planning
-Coursera Agile Planning Lab
+Coursera IBM Agile Planning Lab
