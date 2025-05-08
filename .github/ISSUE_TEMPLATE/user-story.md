@@ -15,10 +15,8 @@ assignees: ''
 * [List what is assumed or should be required.]
 
 ### Acceptance Criteria
-
-''' In Gherkin
+'''gherkin
 Given [some context]
 When [an action is taken]
 Then [an outcome is observed]
-* And [an optional conditional that can be used at any part of the statement]
 '''
