@@ -15,8 +15,8 @@ assignees: ''
 * [List what is assumed or should be required.]
 
 ### Acceptance Criteria
-'''gherkin
+```Gherkin
 Given [some context]
 When [an action is taken]
 Then [an outcome is observed]
-'''
+```
